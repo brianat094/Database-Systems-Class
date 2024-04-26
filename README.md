@@ -9,3 +9,9 @@ https://github.com/brianat094/Database-Systems-Class/blob/09427b92fd24d25cd26521
 
 Assignment 2: Replication
 https://github.com/brianat094/Database-Systems-Class/blob/187ccd486baea786c0565decffadcd059e9010e1/briana_thompson_replication_database.py
+
+Assignment 3: Models
+
+
+Assignment 4: Design Consideration 
+
