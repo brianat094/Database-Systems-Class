@@ -1,6 +1,8 @@
+Briana_Thompson
+
 # Database-Systems-Class
 
-This repository showcases the fundamental concepts and principles of database systems. It will show the learning of practical skills applicable to database design, modeling, and querying database systems using SQL that are relevant to managing traditional and cloud applications.
+This repository showcases the fundamental concepts and principles of database systems. 
 
 # Content 
 
@@ -14,4 +16,10 @@ Assignment 3: Models
 https://github.com/brianat094/Database-Systems-Class/blob/ce951bd0c8ccd3e7147923bbe8aa4a661e344582/briana_thompson_models.py
 
 Assignment 4: Design Consideration 
+https://github.com/brianat094/Database-Systems-Class/blob/490faad537daab2d116d61863624e5fa830ea1b7/briana_thompson_design_considerations.py
 
+These assignments demonstrate practical skills applicable to database design, modeling, and querying database systems using SQL that are relevant to managing traditional and cloud applications.
+
+# Tools used
+- Python programming
+- Jupter Notebook
